@@ -1,5 +1,6 @@
 # Self-Driving Cars Specialization
-### Introduction to Self-Driving 
+### Introduction to Self-Driving Cars
+#### Vehicle Dynamic Modeling
 
 ### State Estimation and Localization for Self-Driving Cars
 
